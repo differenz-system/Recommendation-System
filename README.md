@@ -1,5 +1,14 @@
 # Recommendation System Using Cosine Similarity
 
+# Quick Demo
+
+![Alt text](asset/apriori.gif "Optional title")
+![Alt text](asset/Popular-Product.gif "Optional title")
+![Alt text](asset/Product-Similarity.gif "Optional title")
+![Alt text](asset/Reco-UsersCart.gif "Optional title")
+![Alt text](asset/Reco-UsersPurchase.gif "Optional title")
+![Alt text](asset/Reco-UsersView.gif "Optional title")
+
 ## Overview
 
 This recommendation system involves several key components, each serving a specific purpose. Here's a brief overview of the main functionalities:
