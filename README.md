@@ -1,14 +1,5 @@
 # Recommendation System Using Cosine Similarity
 
-# Quick Demo
-
-![Alt text](asset/apriori.gif "Optional title")
-![Alt text](asset/Popular-Product.gif "Optional title")
-![Alt text](asset/Product-Similarity.gif "Optional title")
-![Alt text](asset/Reco-UsersCart.gif "Optional title")
-![Alt text](asset/Reco-UsersPurchase.gif "Optional title")
-![Alt text](asset/Reco-UsersView.gif "Optional title")
-
 ## Overview
 
 This recommendation system involves several key components, each serving a specific purpose. Here's a brief overview of the main functionalities:
@@ -60,13 +51,7 @@ This recommendation system involves several key components, each serving a speci
 
 6. **User Cart Recommendations:**
    - Discover personalized recommendations based on items in the user's cart.
-
-
-
-
-
-
-
+   
 # Recommendation System Using TensorFlow
 
 ## Overview
@@ -117,14 +102,22 @@ This recommendation system is implemented using TensorFlow and involves several 
 6. **Name Retrieval Testing:**
    - Run the `reco_name_testing` function to obtain the names of the recommended products.
 
+# Quick Demo
 
+![Alt text](asset/apriori.gif "Optional title")
 
+![Alt text](asset/Popular-Product.gif "Optional title")
 
+![Alt text](asset/Product-Similarity.gif "Optional title")
 
+![Alt text](asset/Reco-UsersCart.gif "Optional title")
+
+![Alt text](asset/Reco-UsersPurchase.gif "Optional title")
+
+![Alt text](asset/Reco-UsersView.gif "Optional title")
 
 
 # Association Rules Learning Using Apriori
-
 
 This script uses the Apriori algorithm to generate association rules and recommends top N products for a given target product.
 
