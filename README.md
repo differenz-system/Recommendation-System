@@ -50,9 +50,9 @@ This recommendation system is implemented using TensorFlow and involves several 
 
 # Quick Demo
 
-![Alt text](asset/apriori.gif "Optional title")
-
 ![Alt text](asset/Popular-Product.gif "Optional title")
+
+![Alt text](asset/apriori.gif "Optional title")
 
 ![Alt text](asset/Product-Similarity.gif "Optional title")
 
